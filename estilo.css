@@ -10,13 +10,13 @@
     left: 86px;
 }
 
-    .btn {    background: white;
+    .btn {    background: black;
     color: aliceblue;
     border: none;
     padding: 10px;
     width: 80px;
     border-radius: 5px;
-    bottom: 592px;
+    bottom: 610px;
     left: 176px;
     position: absolute;
     z-index: 3;
