@@ -5,8 +5,9 @@
     width: 80px;
     border-radius: 5px;
     right: 10px;
-    position: fixed;
-  
+    position: relative;
+    top: -257px;
+    left: 5px;
 }
 
     .btn {    background: black;
