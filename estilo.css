@@ -18,7 +18,7 @@
     border-radius: 5px;
     bottom: 574px;
     left: 205px;
-    position: absolute;
+    position: fixed;
     z-index: 3;
 }
 
